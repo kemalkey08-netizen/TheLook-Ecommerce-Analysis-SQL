@@ -10,3 +10,6 @@
 
 ## Pertanyaan
 
+1. Berapa Jumlah Order Per Quartal ?
+
+![Q1](Assets/Q1.jpeg)
